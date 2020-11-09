@@ -12,4 +12,4 @@ KusakiDB is a database of protein orthologous groups (OGs) that: </br>
 
 Tutorial
 ---------
-For instructions of 'How to use' **KusakiDB** please see [KusakiDB wiki]
+For instructions of 'How to use' **KusakiDB** please see [KusakiDB_tutorial](https://github.com/aghelfi/kusakiDB/blob/master/kusakiDBv1_tutorial.pdf)
