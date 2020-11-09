@@ -12,7 +12,7 @@ KusakiDB is a database of protein orthologous groups (OGs) that: </br>
 
 Availability
 ------------
-KusakiDB is available ![on-line](http://pgdbjsnp:8080/app/kusakidb).<br/>
+KusakiDB is available [on-line](http://pgdbjsnp:8080/app/kusakidb).<br/>
 
 Tutorial
 --------
