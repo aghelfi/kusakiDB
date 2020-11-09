@@ -10,6 +10,13 @@ KusakiDB is a database of protein orthologous groups (OGs) that: </br>
 -- Correlates the information of three important databases, OrthoDB, UniProt and RefSeq, which increases the number of species; </br>
 -- Introduces a validation tag that is based on the existence of at least one protein (or transcript) in each OG.</br>
 
+Availability
+------------
+KusakiDB is available [on-line](http://pgdbjsnp:8080/app/kusakidb).<br/>
+
 Tutorial
----------
-For instructions of 'How to use' **KusakiDB** please see [KusakiDB_tutorial](https://github.com/aghelfi/kusakiDB/blob/master/kusakiDBv1_tutorial.pdf)
+--------
+For instructions of 'How to use' **KusakiDB** please see [KusakiDB_tutorial](https://github.com/aghelfi/kusakiDB/blob/master/kusakiDBv1_tutorial.pdf).
+
+
+
