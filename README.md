@@ -14,9 +14,15 @@ Availability
 ------------
 KusakiDB is available [on-line](http://pgdbjsnp.kazusa.or.jp).<br/>
 
+Docker Container
+----------------
+Please see [KusakiDB on Docker](https://hub.docker.com/repository/docker/ghelfi/kusakidb) to run KusakiDB locally.
+
+
 Tutorial
 --------
-For instructions of 'How to use' **KusakiDB** please see [KusakiDB_tutorial](https://github.com/aghelfi/kusakiDB/blob/master/kusakiDBv1_tutorial.pdf).
+For instructions of 'How to use' **KusakiDB** please see [KusakiDB tutorial](https://github.com/aghelfi/kusakiDB/blob/master/kusakiDBv1_tutorial.pdf).
+
 
 
 
