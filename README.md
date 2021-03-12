@@ -1,14 +1,18 @@
 # KusakiDB
 
-A novel approach for validation and enrichment of protein orthologous groups 
+A novel approach for assessing the existence and completeness of orthogroups in plant species
+
+Orthogroup Definition
+---------------------
+OGs are defined as descendants from a single gene of the last common ancestor of Viridiplantae.
 
 Description
 -----------
 
-KusakiDB is a database of protein orthologous groups (OGs) that: </br> 
--- Provides an assessment and management tool for comparison of OGs at a family level in 117 plant species with whole genomes; </br>
--- Correlates the information of three important databases, OrthoDB, UniProt and RefSeq, which increases the number of species; </br>
--- Introduces a validation tag that is based on the existence of at least one protein (or transcript) in each OG.</br>
+KusakiDB is a database of protein orthogroups (OGs) that: </br> 
+-- Correlates the information of three important databases, OrthoDB, UniProt and RefSeq; </br>
+-- Introduces a new parameter called “Evidence existence,” which is based on the physical existence of at least one protein (or transcript) in each OG; </br>
+-- Provides two new tools, known as "OG assessment" and "OG management", that compare OGs at a family level within 117 plant species or with user's data; </br>
 
 Availability
 ------------
